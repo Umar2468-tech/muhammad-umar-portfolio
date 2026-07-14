@@ -15,43 +15,38 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Frontend Developer</h4>
+                <h5>Vention</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              As a Frontend Developer, I built responsive and high-performance web applications using modern frontend technologies. I developed reusable UI components, integrated REST APIs, and converted Figma designs into pixel-perfect, user-friendly interfaces.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Frontend Developer</h4>
+                <h5>Rex Technologies</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              At Rex Technologies, I contributed to the development of scalable web solutions by implementing modern frontend architectures and reusable components. I worked extensively with React.js, Next.js, and REST APIs to deliver fast, reliable, and user-centric applications.
+
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Frontend Developer</h4>
+                <h5>The Visamtion Private Limited</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              I am currently working at The Visamtion Private Limited as a Frontend Developer, where I am responsible for building and maintaining high-quality web applications. I work closely with cross-functional teams to deliver seamless and user-centric solutions while continuously improving my skills and knowledge.
             </p>
           </div>
         </div>
